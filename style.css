@@ -1,18 +1,64 @@
-p {
-    font-family:"Verdana",sans-serif;
+p {font-family: 'Ubuntu',sans-serif;
 }
-h2 {
-    font-family:"Verdana",sans-serif;
+h1 {font-family: 'Ubuntu',sans-serif;
 }
-h3 {
-    font-family:"Verdana",sans-serif;
+h2 {font-family: 'Ubuntu',sans-serif;
 }
-h4 {
-    font-family:"Verdana",sans-serif;
+h3 {font-family: 'Ubuntu',sans-serif;
 }
-h5 {
-    font-family:"Verdana",sans-serif;
+h4 {font-family: 'Ubuntu',sans-serif;
+text-transform: uppercase;s
+color grey;
 }
-h6 {
-    font-family:"Verdana",sans-serif;
+h5 {font-family: 'Ubuntu',sans-serif;
+}
+a:link {
+  color: white;
+  font-family: 'Ubuntu',sans-serif;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: orange;
+    text-align: center;
+text-transform: uppercase;
+    padding: 2px 8px 0px;
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 14px;
+  }
+.midnav a {
+        float: left;
+        display: block;
+        color: orange;
+        text-align: center;
+    text-transform: uppercase;
+        padding: 5px 14px 0px;
+        font-family: 'Ubuntu',sans-serif;
+        font-size: 14px;
+}
+.imgDivider{
+  width: 900px;
+  height:150px;
+}
+.QuickSneakersFeature{
+  padding: 10px 350px 10px 350px;
+  border-top: 10px solid #ba361a;
+}
+.QuickSneakersDescription{
+  border-top: 1px dash #ba361a;
+  border-bottom: 1px dash #ba361a;
+}
+.ExcitingTopic{
+  text-align: left;
+}
+.ShopRecommended{
+  background-color: #f2c6c6;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.imgThreeShoeBlock{
+  padding: 10px 350px 10px 350px;
+}
+.bottomnav{
+  p {font-family: 'Ubuntu',sans-serif;  
 }
